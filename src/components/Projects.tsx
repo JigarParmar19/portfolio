@@ -10,7 +10,7 @@ const Projects = () => {
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'Bootstrap'],
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: true
     },
     {
@@ -20,7 +20,7 @@ const Projects = () => {
       technologies: ['React.js', 'Firebase', 'CSS3', 'JavaScript'],
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: false
     },
     {
@@ -30,7 +30,7 @@ const Projects = () => {
       technologies: ['React.js', 'TypeScript', 'Tailwind CSS'],
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: true
     },
     {
@@ -40,7 +40,7 @@ const Projects = () => {
       technologies: ['JavaScript', 'HTML5', 'CSS3', 'Weather API'],
       image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: false
     },
     {
@@ -50,7 +50,7 @@ const Projects = () => {
       technologies: ['React.js', 'Node.js', 'MySQL', 'Chart.js'],
       image: 'https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: false
     },
     {
@@ -60,7 +60,7 @@ const Projects = () => {
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Socket.io'],
       image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       demoUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/JigarParmar19/jigar',
       featured: true
     }
   ];
